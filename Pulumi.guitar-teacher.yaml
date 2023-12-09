@@ -1,0 +1,4 @@
+config:
+  aws:region: us-east-1
+  s3-static-site:bucket_name: daoust-guitar-teacher
+  s3-static-site:deploy_user: guitar-teacher-deploy
